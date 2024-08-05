@@ -3,5 +3,5 @@ scipy
 numpy
 matplotlib
 ipywidgets
-sklearn
-git+https://github.com/abey79/vpype.git#egg=vpype
+scikit-learn
+vpype
